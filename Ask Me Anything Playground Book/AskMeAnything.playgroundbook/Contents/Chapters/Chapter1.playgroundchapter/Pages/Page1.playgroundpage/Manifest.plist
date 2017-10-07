@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Ask Me Anything!</string>
+	<key>LiveViewEdgeToEdge</key>
+	<false/>
+	<key>LiveViewMode</key>
+	<string>VisibleByDefault</string>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>Try to ask about name, university, achievements, job, dream, hobby and fun fact from my life...</string>
+			<key>SpoilerButtonTitle</key>
+			<string>Show Spoiler</string>
+		</dict>
+	</array>
+</dict>
+</plist>
